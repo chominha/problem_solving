@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1d262ac0-9107-485e-9854-163637c7caf3)
+
 # [Bronze V] 개수 세기 - 10807 
 
 [문제 링크](https://www.acmicpc.net/problem/10807) 
