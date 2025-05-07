@@ -1,3 +1,7 @@
+/*
+입력 순서를 유지가 있다면 → std::stable_sort 꼭 사용
+그렇지 않다면 보통은 std::sort가 더 빠르고 짧아서 좋음
+*/
 #include <iostream>
 #include <vector> 
 #include <utility> // for std::pair, std::swap
