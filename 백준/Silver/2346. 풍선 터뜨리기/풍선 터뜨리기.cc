@@ -1,3 +1,8 @@
+/*
+auto [index, move] = dq.front();
+        dq.pop_front();
+        answer.push_back(index);
+*/
 #include <iostream>
 #include <deque>
 #include <vector>
